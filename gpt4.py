@@ -7,7 +7,8 @@ from typing import List
 import pyttsx3
 
 openai.api_key = "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"
-COMPLETIONS_MODEL = "text-davinci-003"
+COMPLETIONS_MODEL = "text-davinci-003"        
+
 
 
 
